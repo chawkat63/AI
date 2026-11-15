@@ -2,7 +2,7 @@
 AI POWER
 LearnMate AI – Your Personal Learning Assistant
 Building AI course project
-
+''##SUMMARY''
 Summary
 LearnMate AI is an intelligent learning assistant designed to help students understand difficult subjects through personalized explanations, practice questions, and learning recommendations. It uses artificial intelligence to adapt educational support to each student's needs and learning pace.
 
