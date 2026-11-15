@@ -96,3 +96,4 @@ Acknowledgments
 This project was inspired by the Building AI course by the University of Helsinki and Reaktor.
 Inspiration also comes from the growing use of artificial intelligence in personalized education.
 The project is an original proposal. No third-party code, images, or datasets are included in this project description.
+## summary
